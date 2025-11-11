@@ -1,4 +1,4 @@
-Weather Dashboard
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/77ef1dc0-003f-4e4c-9aa4-f54909b04464" />Weather Dashboard
 A sleek, mobile-friendly web application that displays real-time weather data and a 5-day forecast for any city worldwide. Built using HTML, CSS, and JavaScript, and powered by the OpenWeatherMap API.
 
 ##Features
@@ -15,6 +15,7 @@ A sleek, mobile-friendly web application that displays real-time weather data an
 ⚡ Instant access via GitHub Pages
 
 
+
 ## Demo
 
 Experience the Weather Dashboard live:
@@ -23,3 +24,10 @@ Experience the Weather Dashboard live:
 Test weather for any city, view the current climate, and see a 5-day forecast—direct in your browser, no installation required!
 
 
+
+## Screenshot
+
+![Weather Dashboard Screenshot](screenshot.png)
+
+
+<img width="1919" height="966" alt="Screenshot 2025-11-11 212432" src="https://github.com/user-attachments/assets/20be2f1d-d2c5-459e-a10f-121861a39486" />
