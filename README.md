@@ -1,4 +1,4 @@
-<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/77ef1dc0-003f-4e4c-9aa4-f54909b04464" />Weather Dashboard
+Weather Dashboard
 A sleek, mobile-friendly web application that displays real-time weather data and a 5-day forecast for any city worldwide. Built using HTML, CSS, and JavaScript, and powered by the OpenWeatherMap API.
 
 ##Features
